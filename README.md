@@ -24,16 +24,18 @@ This project is an **Excel-based Hospital Emergency Room Analysis Dashboard** th
 - Applied **slicers and interactive filters** to enhance user experience.
 
 
-### **  Key Insights :**
+### **Key Insights**
 
-Balanced patient admissions, with nearly equal admitted and non-admitted cases.
+- Balanced patient admissions, with nearly equal admitted and non-admitted cases.
+- Young adults (20-29 years) have the highest ER visits.
+- Wait time delays exist, impacting patient satisfaction.
+- Gender distribution is nearly equal (Male vs. Female).
+- Most referrals go to General Practice, Orthopedics & Physiotherapy.
+- Efficiency improvements needed in reducing delays and optimizing workflows.
 
-Young adults (20-29 years) have the highest ER visits.
 
-Wait time delays exist, impacting patient satisfaction.
 
-Gender distribution is nearly equal (Male vs. Female).
 
-Most referrals go to General Practice, Orthopedics & Physiotherapy.
 
-Efficiency improvements needed in reducing delays and optimizing workflows.
+  ![Dashboard](Dashboard.png)
+
